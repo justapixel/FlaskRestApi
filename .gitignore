@@ -1,0 +1,4 @@
+.history
+.vscode
+db.sqlite
+__pycache__
